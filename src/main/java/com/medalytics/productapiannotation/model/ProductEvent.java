@@ -3,6 +3,7 @@ package com.medalytics.productapiannotation.model;
 import lombok.*;
 
 @AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 @EqualsAndHashCode
